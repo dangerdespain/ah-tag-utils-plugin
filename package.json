@@ -1,0 +1,44 @@
+{
+  "author": {
+    "name": "Devin Despain",
+    "email": "devin@dspa.in"
+  },
+  "name": "ah-tag-utils-plugin",
+  "description": "I provide tag utilities",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dangerdespain/ah-tag-utils-plugin",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/ah-tag-utils-plugin.git"
+  },
+  "keywords": [
+    "actionhero",
+    "ah",
+    "formatting",
+    "validation",
+    "tag",
+    "tags",
+    "utility",
+    "utilities"
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "underscore" : "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+
+  "bugs": {
+    "url": "https://github.com/dangerdespain/ah-tag-utils-plugin/issues"
+  },
+  "maintainers": [
+    {
+      "name": "dangerdespain",
+      "email": "devin@dspa.in"
+    },
+  ],
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}
