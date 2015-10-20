@@ -29,7 +29,6 @@
   },
   "devDependencies": {},
   "optionalDependencies": {},
-
   "bugs": {
     "url": "https://github.com/dangerdespain/ah-tag-utils-plugin/issues"
   },
@@ -37,7 +36,7 @@
     {
       "name": "dangerdespain",
       "email": "devin@dspa.in"
-    },
+    }
   ],
   "directories": {},
   "readme": "ERROR: No README data found!"
